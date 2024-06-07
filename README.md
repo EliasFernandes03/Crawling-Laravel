@@ -17,7 +17,7 @@ Uma base de aplicação laravel, com Docker, Nginx e Mysql que executa um crawli
     `git clone https://github.com/EliasFernandes03/Crawling-Laravel.git`
 
 - Agora entre na pasta com o terminal 
-    `cd setup-laravel-docker`
+    `cd Crawling-Laravel`
 
 - Utilize o docker para executar isso 
     `docker-compose up -d`
