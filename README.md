@@ -21,6 +21,7 @@ Uma base de aplicação laravel, com Docker, Nginx e Mysql que executa um crawli
 
 - Utilize o docker para executar isso 
     `docker-compose up -d`
+- Crie um arquivo .env e pegue o conteudo de .env.example e cole lá
 
 
 ## Instalar
